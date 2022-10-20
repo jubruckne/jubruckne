@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @jubruckne
-- 👀 I’m interested in learning python
-- 🌱 I’m currently learning learning pytho
+- 👀 I’m interested in learning python and java
+- 🌱 I’m currently learning learning python and java
 - 💞️ I’m looking to collaborate on wonderful things
-- 📫 How to reach me: write me
 
 <!---
 jubruckne/jubruckne is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
